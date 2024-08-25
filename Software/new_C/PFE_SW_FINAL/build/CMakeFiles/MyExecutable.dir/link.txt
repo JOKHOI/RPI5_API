@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/MyExecutable.dir/main.c.o -o MyExecutable 

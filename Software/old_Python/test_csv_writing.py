@@ -1,0 +1,3 @@
+from gestionnaireCSV.csvHandler import write_to_csv
+from constant import DATA_SOURCE,CSV_FILE_PATH
+write_to_csv(DATA_SOURCE,CSV_FILE_PATH)

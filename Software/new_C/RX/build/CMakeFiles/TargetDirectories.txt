@@ -1,0 +1,3 @@
+/home/pi/Git/ELE795-PFE/Software/new_C/RX/build/CMakeFiles/PFE_RPI_RX.dir
+/home/pi/Git/ELE795-PFE/Software/new_C/RX/build/CMakeFiles/edit_cache.dir
+/home/pi/Git/ELE795-PFE/Software/new_C/RX/build/CMakeFiles/rebuild_cache.dir
